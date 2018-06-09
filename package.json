@@ -1,0 +1,9 @@
+{
+    "name": "voided.pw",
+    "description": "ry0id / void#0001's website",
+    "version": "0.0.0",
+    "dependencies": {
+        "express": "*",
+        "ejs": "*"
+    }
+}
